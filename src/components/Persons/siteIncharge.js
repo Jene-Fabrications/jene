@@ -7,13 +7,13 @@
      <div className='site'>
         <Tab 
         title="Owner" 
-        description="K. Malathi Gilbert B.Sc., B.Ed."
+        description="K. Marthal Malathi"
         imgSrc={Owner}
         imgAlt="Owner"
       />,
       <Tab 
         title="Site Incharge"  
-        description="V. John Gilbert Raj S.S.L.C."
+        description="V. John Gilbert Raj"
         imgSrc={Incharge}
         imgAlt="Incharge"
       />
