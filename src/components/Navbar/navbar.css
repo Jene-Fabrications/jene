@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #3D8D7A; /* Dark Greenish Teal */
+    padding: .5rem;
+  }
+  
+  .navbar-container {
+    display: flex;
+    align-items: center;
+    gap: .9375rem;
+  }
+  
+  .navbar-logo {
+    width: 3.125rem;
+    height: 3.125rem;
+  }
+  
+  .navbar-title {
+    color: #FBFFE4; /* Cream White */
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
